@@ -14,14 +14,7 @@ CS, Systems & AI @ MIT, software engineer and tech enthusiast.
 ### Frameworks/Developer Tools
 - PyTorch, TensorFlow, kdb+, React, PostgreSQL, MySQL, MongoDB, BigQuery, Apache Solr, Flask,
 Docker, Kubernetes, Next.js, Node.js, Tauri, CoreML, ONNX, D3.js, Gunicorn, NGINX, Linux, OpenCV, GCP, GKE, Prisma, SpringBoot,
-JMeter, Lucene, Postman, Jenkins, Datadog, Kafka, Spark, ZooKeeper, Google Spanner, DynamoDB, Memcached, AWS Lambda, Hadoop,
-JFrog, WebSockets, Git, Jira, Agile Development
-
-### Concepts
-- Full-Stack, Machine Learning, Databases, Operating Systems, Distributed Systems, Network Programming, Cloud Computing,
-Data Structures and Algorithms, Test Automation, Unit Testing, Deep Learning, Object-Oriented Design, CI/CD, OAuth, Natural Language
-Processing, RESTful APIs, Data Engineering
-
+JMeter, Lucene, Postman, Jenkins, Datadog, Kafka, JFrog, WebSockets, Git, Jira, Agile Development
 <!--
 **yash94404/yash94404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
