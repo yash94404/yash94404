@@ -2,6 +2,10 @@
 
 CS, Systems & AI @ MIT, software engineer and tech enthusiast.
 
+## Currently
+- Incoming SWE Intern at Coinbase
+- Research Intern at MIT Data Systems Group
+
 ## Previously
 - Software engineering at ZoomInfo (2024)
 - ML Researcher at MIT CSAIL (2023)
